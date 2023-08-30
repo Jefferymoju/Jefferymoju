@@ -1,6 +1,6 @@
 - 👋 Hello, i'm Jeffery Moju
-- 👀 I’m interested in Mobile Developpment
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m a Native Mobile Developer and Alx student
+- 🌱 Kotlin
 - 💞️ I’m looking to collaborate on any mobile development projects
 - 📫 You can reach me on Twitter- @Mofeoritse, Instagram @jefferyofeoritse and whatsapp @2347045515703 
 
