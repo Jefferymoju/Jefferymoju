@@ -1,5 +1,4 @@
-<img align='center' width='1020' src='https://www.freepik.com/free-vector/gamer-room-illustration_13558847.htm#fromView=search&page=1&position=13&uuid=19365a41-24b3-4500-8ebb-ed8b13c5ea2f'>
-
+<img align='center' width='1020' src='https://img.freepik.com/free-vector/gamer-room-illustration_23-2148929072.jpg?t=st=1713450298~exp=1713453898~hmac=87e65154b930f75836ba6010538caac8a60d11108e1f9504e05b7ac688197797&w=740'>
 <!--### Hi there 👋
 
 Here are some ideas to get you started:
