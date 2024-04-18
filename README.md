@@ -1,9 +1,6 @@
-<img align='center' width='1020' src='[https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9](https://www.freepik.com/free-vector/gamer-room-illustration_13558847.htm#fromView=search&page=1&position=13&uuid=19365a41-24b3-4500-8ebb-ed8b13c5ea2f)'>
+<img align='center' width='1020' src='https://www.freepik.com/free-vector/gamer-room-illustration_13558847.htm#fromView=search&page=1&position=13&uuid=19365a41-24b3-4500-8ebb-ed8b13c5ea2f'>
 
 <!--### Hi there 👋
-
-
-**sammykingx/sammykingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
