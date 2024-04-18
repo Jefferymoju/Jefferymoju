@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sammykingx18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eronomosele" height="30" width="40" /></a>
+<a href="https://twitter.com/mofeoritse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eronomosele" height="30" width="40" /></a>
 <!-- <a href="https://linkedin.com/in/samuel iyebhora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel iyebhora" height="30" width="40" /></a> -->
-<a href="https://fb.com/sammykingx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammykingx" height="30" width="40" /></a>
-<a href="https://youtube.com/@sammykingx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kingx_dma" height="30" width="40" /></a>
+<a href="https://wa.me/+2347045515703" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=7OeRNqg6S7Vf&format=gif" alt="Jefferymoju" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moju-jeffrey-5b7338253" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="Jeffiemoju" height="30" width="40" /></a>
 </p>
 <!--
   gif section
