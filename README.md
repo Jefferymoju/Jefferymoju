@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align="left" width='400' hieght='200' src="https://i.gifer.com/J4o.gif">
 -->
-<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1bTdzcHphamtxbGd5dXd4NjB3Zjl3Z2YwamtyZnBmcHp4MG42eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif">
+<img alt="writing codes" width='1020' hieght='200' align="center" src="https://i.gifer.com/J4o.gif">
 <br clear='all'/>
 
 <h3 align="left">Languages and Tools:</h3>
