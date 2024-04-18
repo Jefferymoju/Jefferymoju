@@ -3,38 +3,37 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently ... A student of the ALX SE Program
-- 🌱 I’m currently being trained to be a seasoned software engineer
-- 👯 I’m looking to collaborate on Projects related to c, Python, Js, SQL.
+- 🔭 I’m currently ... An Instructor an Android Developement Instructor at TechRoyale Studios
+- 👯 I’m looking to collaborate on Projects related to Kotlin, Ktor, Kobweb.
 - 🤔 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -
-- 😄 Prefferred name: Sammy
+- 😄 Prefferred name: Jeffery
 <!-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
 -->
-<h1 align="center">Hello 👋, I'm Sammykingx</h1>
-<h3 align="center">A Python Backend SE</h3>
+<h1 align="center">Hello 👋, I'm Jeffery Moju</h1>
+<h3 align="center">A Full-Stack Kotlin SE</h3>
 
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
 -->
 
-- 🔭 I’m a skilled and experienced backend developer with a passion for creating scalable, efficient, and well-documented software solutions.
+- 🔭 I'm a passionate software engineer driven by building clean, efficient, and scalable solutions.  My experience lies in crafting native android applications and RESTful APIs, but I'm always eager to learn and expand my toolkit.  I have a strong foundation in Kotlin and have tackled projects using Ktor and MongoDB for backend development
 <!-- 🌱 I’m currently increasing more **building**-->
 
-- 👯 I'm a strong communicator and enjoy collaboration, so you'll often find me working closely with product managers, designers, and other developers to ensure that we're building the right thing, the right way.
+- 👯Collaboration is key for me. I thrive in environments where I can work closely with product managers, designers, and fellow developers. This ensures we're building the right features, the right way.
 
 <!-- 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE** -->
 
-- 👉 I've built industry standard web applications and RESTful APIs as well as financial systems using python, having worked on several projects involving integrations with flutterwave, Stripe, PayPal, and other providers.
+- 👉Beyond my current expertise, I'm constantly seeking opportunities to broaden my skillset through projects and internships. Working in projects involving Kotlin Multiplatform(android, web and ios) is one area i'm particularly interested in exploring.
 
-- 👉 I've also worked on projects that requires integration with cloud services such as google buckets, google drive, etc.
+- 👉 I've also worked on projects that requires integration with cloud services like firebase firestore
 
-- 📫 You can reach me via **sammy@sammykingx.com.ng**
+- 📫 You can reach me via **mojuofeoritse@gmail.com**, **+2347045515703**
 
-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
+- ⚡ Fun fact: ...Just try everyday
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammykingx&label=Profile%20views&color=0e75b6&style=flat" alt="sammykingx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jefferymoju&label=Profile%20views&color=0e75b6&style=flat" alt="Jefferymoju" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
