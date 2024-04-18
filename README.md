@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Prefferred name: Jeffery
 <!-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
 -->
-<h1 align="center">Hello 👋, I'm Jeffery Moju</h1>
+<h1 align="center">Hello 👋, I'm Jeffery Ofeoritse Moju</h1>
 <h3 align="center">A Full-Stack Kotlin SE</h3>
 
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!--
   gif section
 
-<img align="left" width='400' hieght='200' src="https://media3.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e47b2sh0gv3oacluw6cmescxw02psu67xvzybjq931x&rid=giphy.gif&ct=g">
+<img align="left" width='400' hieght='200' src="https://i.gifer.com/J4o.gif">
 -->
 <img alt="writing codes" width='1020' hieght='200' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
 <br clear='all'/>
