@@ -99,8 +99,8 @@ Here are some ideas to get you started:
   </a> 
 </p><br>
 
-<p><img width='400' hieght='500' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammykingx&show_icons=true&locale=en&layout=compact" alt="sammykingx" /></p>
+<p><img width='400' hieght='500' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jefferymoju&show_icons=true&locale=en&layout=compact" alt="sammykingx" /></p>
 <!--
 <p>&nbsp;<img align="center" width='400' src="https://github-readme-stats.vercel.app/api?username=sammykingx&show_icons=true&locale=en" alt="sammykingx" /></p>
 -->
-<p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com/?user=sammykingx&" alt="sammykingx" /></p>
+<p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com/?user=Jefferymoju&" alt="sammykingx" /></p>
