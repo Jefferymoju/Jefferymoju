@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align="left" width='400' hieght='200' src="https://i.gifer.com/J4o.gif">
 -->
-<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47o2ggol62o8sbe63ur5tr90j2vv3z7cs7am4if89k&rid=giphy.gif&ct=g">
+<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ3Y3hzMnoweDFmcHBpcTJ1cDU3a2lydmZkenEwcXBldm9nZ2x4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <br clear='all'/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" alt="gcp" width="40" height="40"/> 
   </a>
   <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="aws" width="40" height="40"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="compose" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer"> 
-    <img src="https://dungtaviet.wordpress.com/wp-content/uploads/2020/03/ic_roomdatabase_logo.png?w=1568" alt="mysql" width="40" height="40"/> 
+    <img src="https://dungtaviet.wordpress.com/wp-content/uploads/2020/03/ic_roomdatabase_logo.png?w=1568" alt="sqllite" width="40" height="40"/> 
   </a> 
   <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.inovex.de/wp-content/uploads/2019/08/Kotlin-Multiplatform-hero-1500x880.png" alt="nginx" width="40" height="40"/> 
