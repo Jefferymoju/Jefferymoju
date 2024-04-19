@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align="left" width='400' hieght='200' src="https://i.gifer.com/J4o.gif">
 -->
-<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ3Y3hzMnoweDFmcHBpcTJ1cDU3a2lydmZkenEwcXBldm9nZ2x4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt="writing codes" width='1020' hieght='200' align="center" src="https://media1.tenor.com/m/D-xKkvBWCYUAAAAd/scaler-create-impact.gif">
 <br clear='all'/>
 
 <h3 align="left">Languages and Tools:</h3>
