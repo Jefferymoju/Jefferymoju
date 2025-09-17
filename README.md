@@ -3,31 +3,41 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently ... An Instructor an Android Developement Instructor at TechRoyale Studios
-- 👯 I’m looking to collaborate on Projects related to Kotlin, Ktor, Kobweb.
-- 🤔 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+🔐 Aspiring SOC Analyst | Security+ Candidate | Google Cybersecurity Certificate Graduate  
+
+👨‍💻 Hands-on skills in Python, Linux, SQL, and log analysis  
+📊 Experience with cybersecurity labs (Google Cybersecurity Certificate, Cisco Cybersecurity)  
+📂 Projects: Log parsing scripts, failed login detection, basic backend systems  
+
+🌱 Currently: Preparing for Security+ | Practicing SOC labs on TryHackMe & personal projects  
+🚀 Goal: Transitioning into cybersecurity to protect systems, detect threats, and respond to incidents  
+
 -
 - 😄 Prefferred name: Jeffery
 <!-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
 -->
 <h1 align="center">Hello 👋, I'm Jeffery Ofeoritse Moju</h1>
-<h3 align="center">A Full-Stack Kotlin SE</h3>
+<h3 align="center">Aspriring SOC Analyst</h3>
 
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
 -->
 
-- 🔭 I'm a passionate software engineer driven by building clean, efficient, and scalable solutions.  My experience lies in crafting native android applications and RESTful APIs, but I'm always eager to learn and expand my toolkit.  I have a strong foundation in Kotlin and have tackled projects using Ktor and MongoDB for backend development
+🎯 **Aspiring SOC Analyst | Security+ Candidate | Google Cybersecurity Certificate Graduate**
+
+Coming from a background in small business and education, I’ve built strong skills in explaining technical ideas clearly, managing customer needs, and staying calm under pressure. Alongside this, I’ve developed hands-on technical skills in programming, backend systems, and cybersecurity labs.  
+
 <!-- 🌱 I’m currently increasing more **building**-->
 
-- 👯Collaboration is key for me. I thrive in environments where I can work closely with product managers, designers, and fellow developers. This ensures we're building the right features, the right way.
+## 🔐 Cybersecurity Journey
+- ✅ Google Cybersecurity Certificate  
+- ✅ Cisco Introduction to Cybersecurity  
+- 🎯 Security+ (in progress)  
+- 🔬 Practicing SOC skills on TryHackMe
 
-<!-- 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE** -->
-
-- 👉Beyond my current expertise, I'm constantly seeking opportunities to broaden my skillset through projects and internships. Working in projects involving Kotlin Multiplatform(android, web and ios) is one area i'm particularly interested in exploring.
-
-- 👉 I've also worked on projects that requires integration with cloud services like firebase firestore
+- ## 💻 Technical Skills
+- **Languages/Tools:** Python, Kotlin, SQL, Linux  
+- **Cybersecurity Focus:** Log analysis, threat detection, incident response basics  
+- **Other Strengths:** Documentation, teaching complex ideas simply  
 
 - 📫 You can reach me via **mojuofeoritse@gmail.com**, **+2347045515703**
 
