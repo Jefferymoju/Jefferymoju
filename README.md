@@ -12,16 +12,29 @@
 ---
 
 ## 💻 Technical Skills  
-**Languages & Tools:** Python, Kotlin, SQL, Linux, Git, Docker, Firebase, MongoDB, Android (Jetpack Compose), Room Database  
-**Cybersecurity Focus:** Log analysis, threat detection, incident response basics  
-**Other Strengths:** Documentation, simplifying technical concepts, teaching, communication  
+
+### Cybersecurity (Google Certificate + Labs)  
+- Log analysis (Windows Event Logs, Linux auth logs)  
+- Threat detection & incident response fundamentals  
+- Network security & defense in depth  
+- Risk assessment & vulnerability management  
+- SIEM basics (security information & event management)  
+
+### Technical Tools & Languages  
+- **Languages/Tools:** Python, Kotlin, SQL, Linux, Git, Docker, Firebase, MongoDB, Android (Jetpack Compose), Room Database  
+
+### Soft Skills  
+- Strong documentation & reporting  
+- Problem-solving under pressure  
+- Communicating technical ideas simply  
+- Collaboration & teamwork  
+- Continuous learning & adaptability  
 
 ---
 
 ## 📂 Portfolio Projects  
 - 🔎 Log parsing scripts for detecting failed logins  
 - 📊 Security event analysis (Windows Event Logs & Linux auth logs)  
-- ⚙️ Basic backend systems for data handling  
 *(More projects will be added as I progress through TryHackMe SOC labs)*  
 
 ---
@@ -36,4 +49,5 @@
 ---
 
 ⚡ *Fun fact: Doing hard things isn’t really difficult if you stay consistent and determined.*
+
 
